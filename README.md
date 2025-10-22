@@ -11,7 +11,7 @@ A dynamic Excel VBA tool designed to generate, save, and manage receipts while a
 - Export receipts as PDF for easy sharing.
 
 **Why it matters:**  
-This project highlights practical problem-solving and automation skills. I leveraged **AI collaboration** to overcome challenges with VBA and ensure robust data handling—showcasing resourcefulness and adaptability even when unfamiliar with certain technical skills.
+This project highlights practical problem-solving and automation skills. I leveraged **AI collaboration** to overcome challenges with VBA and ensure robust data handling,showcasing resourcefulness and adaptability even when unfamiliar with certain technical skills.
 
 **Tech Stack:**  
 - Excel (VBA)  
