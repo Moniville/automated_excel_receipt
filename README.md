@@ -22,6 +22,3 @@ This project highlights practical problem-solving and automation skills. I lever
 1. Click on **Create New Receipt** in the 'Dashboard' sheet or Open `Receipt` sheet and click on **Create New   Receipt** to generate a fresh receipt.  
 2. Fill in client and item details.  
 3. Click **Save Receipt** to update all relevant sheets and optionally export as PDF.  
-
-**Next Steps:**  
-- Integrate version control and GitHub hosting for project updates.
